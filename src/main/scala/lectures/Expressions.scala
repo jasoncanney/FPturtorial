@@ -35,9 +35,8 @@ object Expressions extends App {
 
   // Everything in scala is an expression
 
-  val aWeirdValue = (aVariable = 3)
+  val aWeirdValue = (aVariable = 3)  // Unit == void
   println(aWeirdValue)
-
 
   // side effects: println, while, reassigning
 
