@@ -34,6 +34,7 @@ object Objects extends App {
     val bobbie = Person(mary, john)
   // Scala Applications = Scala object with
   // def main(args: Array[String]): Unit
+  // put the above around all code above after the object Person
 
 
   val k = 6.67e-11
