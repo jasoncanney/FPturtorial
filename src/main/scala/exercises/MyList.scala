@@ -6,6 +6,8 @@ package exercises
 abstract class MyList[+A] {
 
   /*
+    ******** This is a singly linked list data structure design pattern
+
      head = first element of  the  list
      tail = remainder of the list
      isEmpty = is this list empty
